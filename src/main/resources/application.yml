@@ -1,0 +1,8 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /consumer2
+vaadin:
+  pnpm-enabled: true
+  servlet:
+    production-mode: false
